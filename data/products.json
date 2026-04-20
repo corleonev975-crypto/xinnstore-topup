@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Mobile Legends",
+    "slug": "mobile-legends",
+    "category": "game",
+    "denominations": [
+      {
+        "name": "86 Diamonds",
+        "price": 20000
+      },
+      {
+        "name": "172 Diamonds",
+        "price": 40000
+      },
+      {
+        "name": "257 Diamonds",
+        "price": 60000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Free Fire",
+    "slug": "free-fire",
+    "category": "game",
+    "denominations": [
+      {
+        "name": "70 Diamonds",
+        "price": 10000
+      },
+      {
+        "name": "140 Diamonds",
+        "price": 20000
+      },
+      {
+        "name": "355 Diamonds",
+        "price": 50000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "PUBG Mobile",
+    "slug": "pubg-mobile",
+    "category": "game",
+    "denominations": [
+      {
+        "name": "60 UC",
+        "price": 15000
+      },
+      {
+        "name": "325 UC",
+        "price": 75000
+      },
+      {
+        "name": "660 UC",
+        "price": 150000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Valorant",
+    "slug": "valorant",
+    "category": "game",
+    "denominations": [
+      {
+        "name": "125 VP",
+        "price": 15000
+      },
+      {
+        "name": "420 VP",
+        "price": 50000
+      },
+      {
+        "name": "700 VP",
+        "price": 80000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Genshin Impact",
+    "slug": "genshin-impact",
+    "category": "game",
+    "denominations": [
+      {
+        "name": "60 Genesis Crystal",
+        "price": 16000
+      },
+      {
+        "name": "300 Genesis Crystal",
+        "price": 79000
+      },
+      {
+        "name": "980 Genesis Crystal",
+        "price": 249000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Roblox",
+    "slug": "roblox",
+    "category": "game",
+    "denominations": [
+      {
+        "name": "80 Robux",
+        "price": 15000
+      },
+      {
+        "name": "400 Robux",
+        "price": 75000
+      },
+      {
+        "name": "800 Robux",
+        "price": 140000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Steam Wallet",
+    "slug": "steam-wallet",
+    "category": "voucher",
+    "denominations": [
+      {
+        "name": "Rp 12.000",
+        "price": 12000
+      },
+      {
+        "name": "Rp 45.000",
+        "price": 45000
+      },
+      {
+        "name": "Rp 90.000",
+        "price": 90000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Google Play",
+    "slug": "google-play",
+    "category": "voucher",
+    "denominations": [
+      {
+        "name": "Rp 10.000",
+        "price": 10000
+      },
+      {
+        "name": "Rp 50.000",
+        "price": 50000
+      },
+      {
+        "name": "Rp 100.000",
+        "price": 100000
+      }
+    ]
+  }
+]
