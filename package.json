@@ -1,0 +1,18 @@
+{
+  "name": "xinnstore-pro-full-checked",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "next-auth": "^4.24.7",
+    "@supabase/supabase-js": "^2.49.1",
+    "midtrans-client": "^1.4.2"
+  }
+}
